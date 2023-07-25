@@ -1,7 +1,8 @@
 # Project Selen-Poe
-Selen-PoE : Path of Exile
-Cheater: HuyRemy
-Email: Huynq@isi.com.vn - Website: https://ai.matilda.vn
+- Selen-PoE : Path of Exile
+- Cheater(Author): HuyRemy
+- Email: Huynq@isi.com.vn - Website: https://ai.matilda.vn
+- Google: HuyRemy
 # Update 17:12 || 25.7.2023 
 - Update Readme
 - Change driver from chrome to gecko
