@@ -3,7 +3,7 @@ Selen-PoE : Path of Exile
 # Update 17:12 || 25.7.2023 
 - Change driver from chrome to gecko
 - Update class HuyRemy @ Botass (Remember: Botass is Bot Assistant not Bottom & Asshole)
-- Update requirements.txt
+- Update requirements.txt (pip install -qq -r requirements.txt)
 - Note: Setup PYYAML
 ``````
 wget http://pyyaml.org/download/pyyaml/PyYAML-3.12.tar.gz
