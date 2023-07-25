@@ -2,7 +2,7 @@
 Selen-PoE : Path of Exile
 # To be continue
 Let's see how great I am. 
-Hey friends, yes, all of you, why you don't place bet. Bet game is easy, rule is the odds result is a bloolean value and the game have 2 options for place bet, Options 1: This task will done by me. Options 2= It's net completed. 50/50 . Build a game portal and we will start playing.
+Hey friends, yes, all of you, why you don't place bet. Bet game is easy, rule is the odds result is a bloolean value and the game have 2 options for place bet, Options 1: This task will done by me. Options 2= It's never completed. 50/50 . Build a game portal and we will start playing.
 # Step 1 - Selenium Introduction 
 Selenium là một thư viện phổ biến và mạnh mẽ trong Python được sử dụng để tự động hóa việc kiểm thử ứng dụng web. Được ra mắt lần đầu tiên vào năm 2004 bởi Jason Huggins, Selenium đã nhanh chóng trở thành công cụ không thể thiếu trong các dự án phát triển phần mềm và kiểm thử trên nền tảng web.
 
