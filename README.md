@@ -1,5 +1,16 @@
 # Selen-Poe
 Selen-PoE : Path of Exile
+# Update 17:12 25.7.2023 py(
+- Change driver from chrome to gecko
+- Update class
+- Update requirements
+- Note: Setup PYYAML
+[code] wget http://pyyaml.org/download/pyyaml/PyYAML-3.12.tar.gz
+tar -xvzf PyYAML-3.12.tar.gz
+cd PyYAML-3.12
+python setup.py install [/code]
+# Test
+python main.py
 # To be continue
 Let's see how great I am. 
 Hey friends, yes, all of you, why you don't place bet. Bet game is easy, rule is the odds result is a bloolean value and the game have 2 options for place bet, Options 1: This task will done by me. Options 2= It's never completed. 50/50 . Build a game portal and we will start playing.
