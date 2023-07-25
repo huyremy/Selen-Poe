@@ -1,6 +1,6 @@
 # Selen-Poe
 Selen-PoE : Path of Exile
-# Update 17:12 25.7.2023 py(
+# Update 17:12 || 25.7.2023 
 - Change driver from chrome to gecko
 - Update class
 - Update requirements
