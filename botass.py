@@ -5,7 +5,7 @@ from selenium.common.exceptions import TimeoutException, ElementNotInteractableE
 from selenium.webdriver.common.by import By
 
 def login(self):
-    """Login to Path of Exil - POE"""
+    """Login to Path of Exil - PoE"""
     try:
         self.browser.get("https://HIDDEN-URL.com/login?redirect_url=%2F")URL
         # HIDDEN-URL for security change it to your login domain
