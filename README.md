@@ -5,10 +5,12 @@ Selen-PoE : Path of Exile
 - Update class HuyRemy @ Botass (Remember: Botass is Bot Assistant not Bottom & Asshole)
 - Update requirements.txt
 - Note: Setup PYYAML
-``````wget http://pyyaml.org/download/pyyaml/PyYAML-3.12.tar.gz
+``````
+wget http://pyyaml.org/download/pyyaml/PyYAML-3.12.tar.gz
 tar -xvzf PyYAML-3.12.tar.gz
 cd PyYAML-3.12
-python setup.py install ```````
+python setup.py install
+``````
 # Test
 python main.py
 # To be continue
