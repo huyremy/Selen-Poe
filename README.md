@@ -1,4 +1,4 @@
-# Project Selen-Poe
+# Thread Selen-Poe
 - Selen-PoE : Path of Exile
 - Cheater(Author): HuyRemy
 - Email: Huynq@isi.com.vn - Website: https://ai.matilda.vn
