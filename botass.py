@@ -5,7 +5,7 @@ from selenium.common.exceptions import TimeoutException, ElementNotInteractableE
 from selenium.webdriver.common.by import By
 
 
-class SaltyBot:
+class HuyRemy:
     def __init__(self, parameters, driver):
         self.browser = driver
         self.email = parameters['EmailInput_emailInput__4v_bn']
