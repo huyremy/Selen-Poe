@@ -17,13 +17,13 @@ python setup.py install
 ``````
 # Finish and Let's test Step 1 
 Go terminal and type: python main.py
-
-switch 
+[
+-switch...case
 case[1]:
 - Good: program run well, have no notice or error.
 case[2]'
 - Bad: Report into issue and we'll double check and retest.
-  
+ ] 
 # To be continue
 Let's see how great I am. 
 Hey friends, yes, all of you, why you don't place bet. Bet game is easy, rule is the odds result is a bloolean value and the game have 2 options for place bet, Options 1: This task will done by me. Options 2= It's never completed. 50/50 . Build a game portal and we will start playing.
