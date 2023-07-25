@@ -1,6 +1,9 @@
-# Selen-Poe
+# Project Selen-Poe
 Selen-PoE : Path of Exile
+Cheater: HuyRemy
+Email: Huynq@isi.com.vn - Website: https://ai.matilda.vn
 # Update 17:12 || 25.7.2023 
+- Update Readme
 - Change driver from chrome to gecko
 - Update class HuyRemy @ Botass (Remember: Botass is Bot Assistant not Bottom & Asshole)
 - Update requirements.txt (pip install -qq -r requirements.txt)
